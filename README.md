@@ -103,3 +103,7 @@ Permasalahan timbul saat sebagian besar pegawai tidak jujur dalam mengisi absen 
 ## License
 
 **SIAP** is open-sourced software licensed under the [GPL v2.0](https://www.gnu.org/licenses/gpl-2.0.html).
+
+---
+
+> **Created by Antono**
